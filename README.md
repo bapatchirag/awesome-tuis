@@ -187,6 +187,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rainfrog](https://github.com/achristmascarl/rainfrog) A database management TUI for Postgres, MySQL, and SQLite written in Rust
 - [regex-tui](https://github.com/vitor-mariano/regex-tui) A simple TUI to visualize and test regular expressions
 - [resterm](https://github.com/unkn0wn-root/resterm) A terminal client for HTTP/GraphQL/gRPC with support for WebSockets, SSE, workflows, profiling, OpenAPI and response diffs.
+- [revision](https://github.com/bapatchirag/revision) A lazygit style, fast, keyboard-driven TUI for SVN
 - [runme](https://github.com/stateful/runme) Discover and run code snippets directly from your README.md or other markdowns
 - [scope](https://github.com/matheuswhite/scope-rs) Cross-platform serial-port & RTT monitor with colored timestamped I/O, hex/@tag input macros, search, session recording, auto-reconnect and Lua plugins
 - [sabiql](https://github.com/riii111/sabiql) A fast, driver-less TUI to browse, query, and edit PostgreSQL databases, written in Rust
